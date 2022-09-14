@@ -1,0 +1,16 @@
+package com.ibm.producer;
+
+import org.springframework.kafka.core.KafkaTemplate;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MessageController {
+	
+	KafkaTemplate<String, String> kafkaTemplate;
+
+	private static final String TOPIC = "ibmapptopic";
+	
+	public String publishMessage(String message) {
+		return "Welcome to IBM Kafka Service";
+	}
+}

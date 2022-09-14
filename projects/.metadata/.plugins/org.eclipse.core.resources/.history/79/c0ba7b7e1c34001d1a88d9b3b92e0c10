@@ -1,0 +1,11 @@
+package com.ibm.producer;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class MessageController {
+
+	public String publishMessage(String message) {
+		return "Welcome to IBM Kafka Service";
+	}
+}
