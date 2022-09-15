@@ -37,6 +37,12 @@ t-multi-paritions
 
 kafka-topics.sh --bootstrap-server localhost:9092 --describe --topic t-multi-paritions
 
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic t-multi-paritions --offset earliest --partition 0
+
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic t-multi-paritions --offset earliest --partition 1
+
+kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic t-multi-paritions --offset earliest --partition 2
+
 ---------------------------------
 
 # Kafka Cluster Docker yaml [docker_cluster directory]
