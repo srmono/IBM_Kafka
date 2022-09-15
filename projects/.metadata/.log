@@ -994,3 +994,264 @@ Binding(CTRL+SHIFT+C,
 
 !ENTRY Activator 1 0 2022-09-15 11:25:42.339
 !MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-15 11:56:23.986
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-09-15 15:23:47.086
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:23:47.088
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:23:47.728
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:23:47.729
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:35.228
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:35.240
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:35.887
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:35.888
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:36.096
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:24:36.099
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:16.929
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:16.932
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:17.556
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:17.594
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:23.802
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:23.803
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:25.303
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 15:27:25.414
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:19:49.577
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vtXmlbRK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:19:49.578
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.vtXmlbRK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:19:49.579
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:19:49.580
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.vtXmlbRK => OK
+
+!ENTRY Activator 1 0 2022-09-15 16:20:32.815
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:20:32.817
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:33.369
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:33.370
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@77f08c46[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:33.370
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2022-09-15 16:20:33.608
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:20:33.626
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.338
+!MESSAGE Boot LS startup time from start to initialized: 5965ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.656
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fnqoNuKPisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.657
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.658
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.658
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.659
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.fnqoNuKP => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.662
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.671
+!MESSAGE classpath=112 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.678
+!MESSAGE buffering callback sts4.classpath.fnqoNuKP ibm-kafka false 112
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.679
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.687
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.693
+!MESSAGE buffering callback sts4.classpath.fnqoNuKP ibm-kafka-consumer false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:39.693
+!MESSAGE executing callback sts4.classpath.fnqoNuKP 2 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-09-15 16:20:40.488
+!MESSAGE executing callback sts4.classpath.fnqoNuKP SUCCESS [done]
+
+!ENTRY Activator 1 0 2022-09-15 16:20:49.600
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:20:49.601
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:20:50.800
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:20:50.801
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:39.328
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:39.328
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:40.232
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:40.244
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:48.905
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:48.906
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:49.745
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:21:49.745
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY org.eclipse.lsp4e 2 0 2022-09-15 16:22:30.003
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2022-09-15 16:24:23.654
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:24:23.655
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:24:24.297
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:24:24.300
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:25:39.674
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:25:39.674
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:25:40.324
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:25:40.328
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:28:25.790
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:28:25.810
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:28:26.434
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:28:26.482
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:29:20.563
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:29:20.564
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:29:21.262
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:29:21.265
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:33:20.938
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:33:20.940
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:33:21.577
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:33:21.647
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:43:43.627
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:43:43.672
+!MESSAGE Has main method computation for project 'ibm-kafka'
+
+!ENTRY Activator 1 0 2022-09-15 16:43:44.223
+!MESSAGE Has main method computation for project 'ibm-kafka-consumer'
+
+!ENTRY Activator 1 0 2022-09-15 16:43:44.232
+!MESSAGE Has main method computation for project 'ibm-kafka'
